@@ -1,0 +1,19 @@
+{
+  "name": "telegram-vc-bot",
+  "version": "1.0.0",
+  "description": "Telegram Voice Chat Bot - Kalıcı Sesli Sohbet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegram": "^2.8.1",
+    "@roamhq/wrtc": "^0.4.7"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Wazer",
+  "license": "MIT"
+}
